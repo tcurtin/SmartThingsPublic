@@ -1,4 +1,4 @@
-/* Code is here: 
+/* Code is here: https://github.com/tcurtin/SmartThingsPublic/tree/master/devicetypes/tcurtin/xbox-one.src
  * original wake on lan example from: https://github.com/ericboehs/smartthings-roku-tv
  * 
  * According to https://www.miniwebtool.com/ip-address-to-hex-converter/?ip=192.168.0.100 the ip 192.168.0.100 
